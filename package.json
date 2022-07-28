@@ -1,0 +1,18 @@
+{
+  "name": "slot-jos",
+  "main": "./lib/slot-jos",
+  "version": "1.0.0",
+  "description": "Rekapan Daftar Ini Web Slot Jos Paling Gacor",
+  "keywords": ["slot online","agen slot online","slot online terbaik","slot online","slot pg soft","game slot terbaik","slot online","joker gaming","slot toto","spade gaming","slot pg soft"],
+
+  "activationCommands": {
+    "atom-workspace": "slot-jos:toggle"
+  },
+  "repository": "https://github.com/gameslotterpercaya81/slot-jos",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
